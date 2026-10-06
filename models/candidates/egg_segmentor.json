@@ -1,0 +1,9 @@
+{
+  "repo": "industoai/Egg-Instance-Segmentation",
+  "revision": "9ec97d40ef0aa0fad80de8d1d8af0bb85781a93f",
+  "filename": "model/egg_segmentor.pt",
+  "url": "https://huggingface.co/industoai/Egg-Instance-Segmentation/resolve/9ec97d40ef0aa0fad80de8d1d8af0bb85781a93f/model/egg_segmentor.pt",
+  "bytes": 6777261,
+  "sha256": "cceea6d26db8ef8dce1151d7c714270f3f9a1cb3afdd591faf0fa351459a7858",
+  "license": "cc-by-nc-4.0"
+}

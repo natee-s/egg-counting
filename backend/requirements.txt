@@ -1,0 +1,10 @@
+# Tested API versions; install CPU torch/torchvision first (see README).
+fastapi==0.115.12
+uvicorn==0.34.3
+websockets==15.0.1
+opencv-python==4.11.0.86
+numpy==2.2.6
+python-dotenv==1.1.0
+ultralytics==8.3.228
+openvino==2025.4.0
+lap==0.5.12

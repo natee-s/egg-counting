@@ -1,0 +1,13 @@
+{
+  "source": "https://www.kaggle.com/code/uzairahmad1434/egg-detection-yolov11n/output",
+  "notebook_version": 1,
+  "notebook_output_version_id": 355317009,
+  "notebook_output_path": "runs/egg_yolo11n/weights/best.pt",
+  "local_file": "kaggle_egg_yolo11n.pt",
+  "bytes": 5479194,
+  "sha256": "783e18bb0266daf1959ae5ca72fe3b5d9fd45fb03ad71e8ca5ced50f04e61921",
+  "architecture": "YOLO11n detection",
+  "classes": ["egg"],
+  "original_training": "57 frames from the Eggs On A Conveyor Stock Video; notebook points val to train/images",
+  "deployment_status": "offline candidate only; active backend model unchanged"
+}
